@@ -1,0 +1,7 @@
+riya,riyaqwe,123456789,123
+ri,ri,89764512,000
+Monokuma,mono,kuma,1010
+abc,abc@,1234567890,abc
+a,a,a,a
+abc,abc,abc,abc
+abc,abc,abc,abc
